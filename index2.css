@@ -428,7 +428,7 @@ text-align: center;
     text-align: justify;
     color:black;
     font-family: 'poppins';
-    margin-right:25vh;
+    margin-right:55px;
    
 }
 
@@ -436,7 +436,7 @@ text-align: center;
 
     width: 680px; /* Ajustez cette valeur pour modifier la taille de l'image */
     height: auto;
-    margin-left:25vh; /* Cela permet de maintenir le ratio d'aspect de l'image */
+    margin-left:55px; /* Cela permet de maintenir le ratio d'aspect de l'image */
   }
   .content-basic {
     color:black;
@@ -460,7 +460,7 @@ text-align: center;
     height:auto;
   }
   .text-image-container .image2 img {
-    margin-right:25vh;
+    margin-right:55px;
     width: 680px; /* Ajustez cette valeur pour modifier la taille de l'image */
     height: auto; /* Cela permet de maintenir le ratio d'aspect de l'image */
   }
@@ -469,7 +469,7 @@ text-align: center;
     text-align: justify;
     color:black;
     font-family: 'poppins';
-    margin-left:25vh;
+    margin-left:55px;
     
 }
 .myClass {
