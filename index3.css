@@ -1403,7 +1403,7 @@ text-align: center;
 @media (min-width: 1280px) {
     .text-image-container .image img {
         width: 600px;
-        margin-left: 30vh;
+        margin-left: 55px;
     }
 
 .text-image-container .text {
