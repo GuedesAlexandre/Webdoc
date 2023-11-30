@@ -428,15 +428,15 @@ text-align: center;
     text-align: justify;
     color:black;
     font-family: 'poppins';
-    margin-right:105px;
+    margin-right:25vh;
    
 }
 
 .text-image-container .image img {
-    margin-left:90px;
+
     width: 680px; /* Ajustez cette valeur pour modifier la taille de l'image */
     height: auto;
-    margin-left:105px; /* Cela permet de maintenir le ratio d'aspect de l'image */
+    margin-left:25vh; /* Cela permet de maintenir le ratio d'aspect de l'image */
   }
   .content-basic {
     color:black;
@@ -460,7 +460,7 @@ text-align: center;
     height:auto;
   }
   .text-image-container .image2 img {
-    margin-right:105px;
+    margin-right:25vh;
     width: 680px; /* Ajustez cette valeur pour modifier la taille de l'image */
     height: auto; /* Cela permet de maintenir le ratio d'aspect de l'image */
   }
