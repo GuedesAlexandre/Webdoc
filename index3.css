@@ -1400,3 +1400,18 @@ text-align: center;
         margin-left: 40vh;
     }
     */
+@media (min-width: 1280px) {
+    .text-image-container .image img {
+        width: 600px;
+        margin-left: 30vh;
+    }
+
+.text-image-container .text {
+    width: 40%;
+    text-align: justify;
+    color:black;
+    font-family: 'poppins';
+    margin-right:25vh;
+   
+}
+}
