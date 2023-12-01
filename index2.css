@@ -420,7 +420,8 @@ text-align: center;
   }
 .text-image-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap:25px;
 }
 
 .text-image-container .text {
@@ -459,7 +460,7 @@ text-align: center;
     width:800px;
     height:auto;
   }
-  .text-image-container .image2 img {
+  .text-image-container .image 2 img {
     margin-right:55px;
     width: 680px; /* Ajustez cette valeur pour modifier la taille de l'image */
     height: auto; /* Cela permet de maintenir le ratio d'aspect de l'image */
