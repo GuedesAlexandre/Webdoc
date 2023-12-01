@@ -16,6 +16,9 @@
     z-index:60;
 
 }
+html{
+    scroll-behavior: smooth;
+}
 a{
     text-decoration: none;
 }
