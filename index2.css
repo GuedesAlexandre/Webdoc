@@ -450,7 +450,7 @@ text-align: center;
 }
 .myClass {
     width: 80%; /* Modifiez cette valeur pour ajuster la largeur */
-    height: 700px; /* Modifiez cette valeur pour ajuster la hauteur */
+    height: 800px; /* Modifiez cette valeur pour ajuster la hauteur */
   }
   .centered-text {
     margin: 35px 105px 0px 105px; /* Ajoute des marges de 90px à gauche et à droite */
