@@ -18,11 +18,7 @@
         object-fit: contain;
         margin: 10px;
         z-index:10;
-        transition: transform .5s ease-in-out;
-        &:active{
-            transform:scale(2);
-            z-index:30;
-        }
+        
     }
     @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
