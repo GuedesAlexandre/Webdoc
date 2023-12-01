@@ -271,28 +271,7 @@ h2{
 }
 
 
-.tuiles1 {
-    margin-right: 30vh;
-    margin-top: -5vh;
-    transform: rotate(46.857deg) translate(0, 0);
-    transition: transform 0.5s ease-in-out;
-    
-}
 
-.tuiles2 {
-    margin-right: 20vh;
-    transform: rotate(46.857deg) translate(90px, -158px);
-    transition: transform 0.5s ease-in-out;
-
-}
-
-.tuiles3 {
-    margin-right: 15vh;
-    margin-bottom: 15vh;
-    transform: rotate(46.857deg) translate(-104px, -49px);
-    transition: transform 0.5s ease-in-out;
-
-}
 
 .img-main {
     box-shadow: 3px 5px 24px 5px rgba(217,4,41,0.17);
@@ -305,12 +284,7 @@ h2{
 }
 
 
-.tuiles1:hover .img-main,
-.tuiles2:hover .img-main,
-.tuiles3:hover .img-main {
-    transform: scale(1.1);
 
-}
 
 .main-container{
     display: flex;
@@ -324,6 +298,7 @@ h2{
     cursor: pointer;
     background-color: var(--quaternarycolor);
   }
+  /*rajout*/
 .discover {
     transition: .5s ease;
     margin-top: 25px;
